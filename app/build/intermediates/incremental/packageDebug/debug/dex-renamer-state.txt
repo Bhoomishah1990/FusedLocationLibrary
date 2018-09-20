@@ -1,0 +1,4 @@
+#Thu Sep 20 16:43:13 IST 2018
+base.0=/home/imobdev-dharmik/Downloads/FusedLocationTracker-master/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/imobdev-dharmik/Downloads/FusedLocationTracker-master/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

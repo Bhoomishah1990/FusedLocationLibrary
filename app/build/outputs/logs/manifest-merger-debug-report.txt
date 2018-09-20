@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2e671ff8542a4b3d64c5c7ec5548fd0a/AndroidManifest.xml:17:1-22:12
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/656637aee8f1a35f18eee3e98518853c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ee2f5f2ec4b08197a64d285237b7921d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/943ee7162885bc6db5890b1be97fb796/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b4ddca379c714ddaa98cfb45ca7dc57f/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/af436c5d23979d34b66bf9d2270d5308/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/02ffcd7d949ac8a39c8862860df2f4e6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e58dd3279bfea7cb5c0d8ac110a7ce0d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/170dd37d2c4931ec8f9fc758a98bd4b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ba311fccae61909ace6657d23d2be16d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/839187cfefed85ec3e8d7749becc854e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/86690df7de07da8ef7ec248389215e40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d453711ffc6367dd7cdc1ecd3a21d40c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/06fc172899dc0497b9cb0696c746ea33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5974655fbabd2769b3761ad3886543fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71cf664f8a4421fae70ca45233072530/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4686d1ffc95b166b4bc7cfa88b798f1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6505e95a20585c2696d3609a6f913feb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2aa7d1e68979eaa1d6d15c2d92b271c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/083cdaac181156aeb55d64f96d2ab72c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3638e06408d30ee4fede68a4b59a947d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/93e094ee8eb5c8f1beb68d4eebdc1870/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-79
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-67
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-81
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-79
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:10:5-25:19
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-30:19
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ee2f5f2ec4b08197a64d285237b7921d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ee2f5f2ec4b08197a64d285237b7921d/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/943ee7162885bc6db5890b1be97fb796/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/943ee7162885bc6db5890b1be97fb796/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b4ddca379c714ddaa98cfb45ca7dc57f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b4ddca379c714ddaa98cfb45ca7dc57f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/af436c5d23979d34b66bf9d2270d5308/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/af436c5d23979d34b66bf9d2270d5308/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/02ffcd7d949ac8a39c8862860df2f4e6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/02ffcd7d949ac8a39c8862860df2f4e6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e58dd3279bfea7cb5c0d8ac110a7ce0d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e58dd3279bfea7cb5c0d8ac110a7ce0d/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.fusedlocationtracker.MainActivity
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2e671ff8542a4b3d64c5c7ec5548fd0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2e671ff8542a4b3d64c5c7ec5548fd0a/AndroidManifest.xml:20:5-44
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/656637aee8f1a35f18eee3e98518853c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/656637aee8f1a35f18eee3e98518853c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ee2f5f2ec4b08197a64d285237b7921d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ee2f5f2ec4b08197a64d285237b7921d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/943ee7162885bc6db5890b1be97fb796/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/943ee7162885bc6db5890b1be97fb796/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b4ddca379c714ddaa98cfb45ca7dc57f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b4ddca379c714ddaa98cfb45ca7dc57f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/af436c5d23979d34b66bf9d2270d5308/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/af436c5d23979d34b66bf9d2270d5308/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/02ffcd7d949ac8a39c8862860df2f4e6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/02ffcd7d949ac8a39c8862860df2f4e6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e58dd3279bfea7cb5c0d8ac110a7ce0d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e58dd3279bfea7cb5c0d8ac110a7ce0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/170dd37d2c4931ec8f9fc758a98bd4b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/170dd37d2c4931ec8f9fc758a98bd4b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ba311fccae61909ace6657d23d2be16d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ba311fccae61909ace6657d23d2be16d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/839187cfefed85ec3e8d7749becc854e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/839187cfefed85ec3e8d7749becc854e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/86690df7de07da8ef7ec248389215e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/86690df7de07da8ef7ec248389215e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d453711ffc6367dd7cdc1ecd3a21d40c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d453711ffc6367dd7cdc1ecd3a21d40c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/06fc172899dc0497b9cb0696c746ea33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/06fc172899dc0497b9cb0696c746ea33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5974655fbabd2769b3761ad3886543fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5974655fbabd2769b3761ad3886543fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71cf664f8a4421fae70ca45233072530/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71cf664f8a4421fae70ca45233072530/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4686d1ffc95b166b4bc7cfa88b798f1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4686d1ffc95b166b4bc7cfa88b798f1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6505e95a20585c2696d3609a6f913feb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6505e95a20585c2696d3609a6f913feb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2aa7d1e68979eaa1d6d15c2d92b271c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2aa7d1e68979eaa1d6d15c2d92b271c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/083cdaac181156aeb55d64f96d2ab72c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/083cdaac181156aeb55d64f96d2ab72c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3638e06408d30ee4fede68a4b59a947d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3638e06408d30ee4fede68a4b59a947d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/93e094ee8eb5c8f1beb68d4eebdc1870/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/93e094ee8eb5c8f1beb68d4eebdc1870/AndroidManifest.xml:20:5-44
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/imobdev-dharmik/DD/FusedLocationTracker-master/app/src/main/AndroidManifest.xml
+receiver#com.example.fusedlocationutil.LocationUpdatesBroadcastReceiver
+ADDED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-29:20
+	android:exported
+		ADDED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-90
+intent-filter#com.fusedlocationtracker.receiver.LocationUpdatesBroadcastReceiver.ACTION_PROCESS_UPDATES
+ADDED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-28:29
+action#com.fusedlocationtracker.receiver.LocationUpdatesBroadcastReceiver.ACTION_PROCESS_UPDATES
+ADDED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:17-132
+	android:name
+		ADDED from [:fusedlocationutil] /home/imobdev-dharmik/DD/FusedLocationTracker-master/fusedlocationutil/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:25-129
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b4ddca379c714ddaa98cfb45ca7dc57f/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b4ddca379c714ddaa98cfb45ca7dc57f/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b4ddca379c714ddaa98cfb45ca7dc57f/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b4ddca379c714ddaa98cfb45ca7dc57f/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e58dd3279bfea7cb5c0d8ac110a7ce0d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e58dd3279bfea7cb5c0d8ac110a7ce0d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/imobdev-dharmik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e58dd3279bfea7cb5c0d8ac110a7ce0d/AndroidManifest.xml:24:13-58
